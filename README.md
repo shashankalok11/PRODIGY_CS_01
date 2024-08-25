@@ -26,5 +26,3 @@ A simple Python program with a graphical user interface (GUI) for encrypting and
 - **License**: Information about the software license.
 - **Contributing**: Guidelines for contributing to the project.
 - **Contact**: Your contact information.
-
-You can adjust the content as needed to better fit your project specifics.
